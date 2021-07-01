@@ -10,7 +10,7 @@ namespace ISASPNetCore
         public int Suma_Igual_A_1()
         {
             int x = 1;
-            int z = 5;
+            int z = 0;
 
             return x + z; 
         }
